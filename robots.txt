@@ -1,0 +1,7 @@
+#robots.txt zu http://www.demo.de
+
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+Allow: /img/*.jpg
