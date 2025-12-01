@@ -32,7 +32,7 @@ A modern, responsive real estate website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[View Live Site](https://your-netlify-url.netlify.app)
+[View Live Site](https://niko5886.github.io/immoworld-website/)
 
 ## Setup
 
